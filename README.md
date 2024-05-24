@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Knox
+# Hi there! 👋 I'm Knox Liu
 
 - 🔭 I'm currently pursuing a Ph.D. in Software Engineering at Monash University, Australia.
 - 🌱 My research focuses on reliable and secure Large Language Models (LLMs) for software development.
