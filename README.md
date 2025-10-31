@@ -4,7 +4,7 @@
 - 🌱 My research focuses on reliable and secure Large Language Models (LLMs) for software development.
 - 💻 I work on enhancing developer productivity and software quality using AI techniques.
 - 🤝 I'm open to collaborations and discussions on AI-driven software development tools, mobile security, and reliability.
-- 📫 How to reach me: yue.liu1@monash.edu
+- 📫 How to reach me: yuehhhliu@gmail.com
 
 ## 🎯 Actively Seeking Connections! 🎯
 > I am actively seeking opportunities to collaborate and connect with fellow researchers, industry professionals, and anyone interested in AI-driven software development. Whether you're an experienced researcher, have an interesting project idea, or are a junior looking for guidance, I'm eager to hear from you. Please feel free to reach out!
@@ -19,4 +19,4 @@
 [website]: https://yueyuel.github.io/
 [linkedin]: https://www.linkedin.com/in/yue-knox-liu-49305a25b/
 [googlescholar]: https://scholar.google.com/citations?user=waVL0PgAAAAJ
-[email]: mailto:yue.liu1@monash.edu
+[email]: mailto:yuehhhliu@gmail.com
