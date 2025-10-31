@@ -6,9 +6,6 @@
 - 🤝 I'm open to collaborations and discussions on AI-driven software development tools, mobile security, and reliability.
 - 📫 How to reach me: yuehhhliu@gmail.com
 
-## 🎯 Actively Seeking Connections! 🎯
-> I am actively seeking opportunities to collaborate and connect with fellow researchers, industry professionals, and anyone interested in AI-driven software development. Whether you're an experienced researcher, have an interesting project idea, or are a junior looking for guidance, I'm eager to hear from you. Please feel free to reach out!
-
 
 ## Connect with me:
 [<img align="left" alt="Yue Liu | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
